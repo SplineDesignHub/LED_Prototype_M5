@@ -6,7 +6,7 @@
 // =============== LED CONFIG ===============
 #define LED_PIN         8   // Port B on CoreS3-SE
 #define NUM_LEDS        46
-#define LED_BRIGHTNESS  255
+#define LED_BRIGHTNESS  150
 
 // LED Type options:
 // - Use NEOPIXEL for WS2812/WS2812B (most common, GRB order)
